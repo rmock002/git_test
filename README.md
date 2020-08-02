@@ -1,1 +1,1 @@
-# git_test
+This is Rebecca's first project!
